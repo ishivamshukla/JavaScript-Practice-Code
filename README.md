@@ -1,2 +1,2 @@
 # JavaScript-Practice-Code
-JavaScript Practice
+Beginner to Mastery JavaScript Practice
